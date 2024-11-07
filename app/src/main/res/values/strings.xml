@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="q">What is the world\'s highest mountain?</string>
+    <string name="o1">Matterhorn</string>
+    <string name="o2">Mount Olympus</string>
+    <string name="o3">Mount Everest</string>
+    <string name="o4">Mount Fuji</string>
+    <string name="a">Submit Answer</string>
+    <string name="answer3">Mount Everest</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="incorrect_answer">Incorrect Answer</string>
+    <string name="missing_answer">Missing Answer</string>
+</resources>
